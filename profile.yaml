@@ -1,0 +1,9 @@
+# Файл с личной информацией DevOps-инженера
+name: Ksenia
+age: 21
+city: Ufa
+skills:
+  - Python
+  - Bash
+  - Docker
+
