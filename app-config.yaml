@@ -1,0 +1,19 @@
+# Application configuration file
+
+app:
+  name: yaml-practice-app
+  version: "1.0.0"
+  environment: development
+
+server:
+  host: 0.0.0.0
+  port: 8080
+
+database:
+  type: postgres
+  host: localhost
+  port: 5432
+  credentials:
+    username: admin
+    password: admin123
+
