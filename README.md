@@ -19,7 +19,13 @@
 
 ```text
 yaml-practice/
-├── profile.yaml        # Основы YAML
+├── profile.yaml        # Основы YAML (практическое задание 1–2)
 ├── app-config.yaml     # Конфигурация приложения
+├── docker-compose.yaml # Docker Compose конфигурация
+├── screenshots/        # Скриншоты выполнения задания
 ├── README.md           # Описание проекта
+```
 
+
+📸 **Скриншот выполнения задания:**  
+👉 [Скрин profile.yaml](./screenshots/profile_yaml.png)
