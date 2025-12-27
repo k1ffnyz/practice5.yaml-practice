@@ -22,7 +22,6 @@ yaml-practice/
 ├── docker-compose.yaml # Docker Compose конфигурация
 ├── screenshots/        # Скриншоты выполнения задания
 ├── README.md           # Описание проекта
-<<<<<<< HEAD
 ```
 =======
  
