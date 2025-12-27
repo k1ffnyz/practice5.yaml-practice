@@ -31,6 +31,7 @@ yaml-practice/
 
 Скриншот YAML-файла `profile.yaml`, подтверждающий выполнение практического задания.
 
-![Скрин profile.yaml](profile.png)
+![Скрин profile.yaml](../screenshots/profile.png)
+
 
 
