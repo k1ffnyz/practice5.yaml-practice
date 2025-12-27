@@ -28,4 +28,4 @@ yaml-practice/
 
 
 📸 **Скриншот выполнения задания:**  
-[Скрин profile.yaml](./screenshots/profile.png)
+[Скрин profile](./screenshots/profile.png)
